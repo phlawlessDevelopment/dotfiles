@@ -1,4 +1,4 @@
 # dotfiles
 
-### Install
+Install
 ## https://www.chezmoi.io/user-guide/setup/
