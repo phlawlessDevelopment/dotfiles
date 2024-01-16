@@ -1,0 +1,4 @@
+[[language]]
+name = "sql"
+file-types = ["sql"]
+language-server = { command = "sql-language-server", args = ["--stdio" ] }

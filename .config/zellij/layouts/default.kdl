@@ -1,0 +1,11 @@
+layout {
+    tab name="helix" focus=true {
+    pane name="helix"
+    }
+    tab name="server"{
+        pane name="server" 
+    }
+    tab name="commands"{
+        pane name="commands" 
+    }
+}
